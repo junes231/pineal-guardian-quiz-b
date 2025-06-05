@@ -1,0 +1,35 @@
+
+body {
+  background: linear-gradient(to bottom, #1d2b2b, #4b3a55);
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+button {
+  display: block;
+  margin: 10px auto;
+  padding: 15px 25px;
+  font-size: 18px;
+  border-radius: 8px;
+  background-color: #6a56a5;
+  color: white;
+  border: none;
+  width: 90%;
+  max-width: 400px;
+  cursor: pointer;
+}
+input[type="email"] {
+  display: block;
+  margin: 15px auto;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: none;
+  width: 90%;
+  max-width: 400px;
+}
+#quiz-container {
+  max-width: 600px;
+  margin: auto;
+}
